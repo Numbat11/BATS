@@ -3,41 +3,40 @@
 Context
 
 Our business is named “Busselton Airport Traveller Shuttle-bus” (BATS).
-Our product is to provide safe and reliable bus transportation for travellers (also known as the account holder or guest) who fly in and out of Western Australia’s Busselton Airport (also known as the “Busselton Margaret River Regional Airport”).
+Our product is to provide safe and reliable bus transportation for travellers (also known as the user account holder or guest) who fly in and out of Western Australia’s Busselton Airport (also known as the “Busselton Margaret River Regional Airport”).
 
-BATS domain is “http://www.busseltonairportbus.com” and we will have to link to this app. 
-We use the names “http://www.busseltonairportbus.com”, BATS and Busselton Airport Transit Shuttlebus” interchangeably during our coding task, they all refer to the same thing.
-
-Please refer to this “Project Requirements Document - Busselton Airport Traveller Shuttle-bus BATS - Steven Bart”  as the foundational guide throughout the build plan.
+BATS domain is “http://www.busseltonairportbus.com”. 
+We use the names “http://www.busseltonairportbus.com”, BATS and Busselton Airport Transit Shuttlebus” interchangeably.
 
 Scope
 
-Create a scalable booking app based on the files provided and using both of our creativity along the way. 
+Build, maintain and operate a scalable booking app. 
 
 We need to link to a secure database, connect the domain name, provide travellers account login options using email or google account options, and build the secure payment process to include credit card, google pay, apple pay, paypal and crypto wallet integration with Reown.
 
 The core of the system must intuitively allow travellers to book their ride to or from the airport by selecting their pickup “FROM” and drop off “TO” location, Listed options are provided in the reference data toward to end of this document.
-During the booking process we will ask for traveller options type and amount of luggage (as detailed in the attached UI Image files and provided in this “Project Requirements Document - Busselton Airport Traveller Shuttle-bus BATS - Steven Bart” for our reference data toward the end of this document.
+During the booking process we will ask for traveller options type and amount of luggage, as detailed in the reference data toward the end of this document.
 
 Secure express payment options must be created where account holders can save personal information securely to allow for express booking and checkout after initial account setup. 
 
 We will have social login options that lead and allow
 Credit Card payments, 
 Cryptocurrency payments,
+google pay
 Paypal, and,
 Apple pay.
 
 There will also be an option for secure guest checkout. 
 
-On confirmation of payment travellers will be sent an email with booking details and a unique QR code for the bus driver to scan and check them in. Travellers who become users with a profile will have the ability to change or cancel a booking up to 12 hours before their journey. Guests will have to contact us for their service to be altered. 
+On confirmation of payment travellers will be sent an email with booking details and a unique QR code for the bus driver to scan and check them in. Travellers who become users with a profile will have the ability to change or cancel a booking up to 12 hours before their journey. Guests will have to submit a form on the contact us page for their service to be altered. 
 
 We will utilise Model Context Protocols (MCP agents) or similar to link our backend data flow.
 
 Service
-Our product is a bus transport service, also known as a transit shuttle service,  for travellers from the  airport to nearby regional towns and vice versa. There is nothing like this available so we are helping people and helping ourselves at the same time. We intend to link with popular flights to begin with, having one vehicle to start, the ever reliable 2011 Toyota Coaster. 19 seats for travellers, the vehicle tows a strong fully enclosed trailer for luggage. Our vehicle is safety inspected yearly as per government regulations, the vehicle is well maintained, serviced and safe. We have the best local drivers. 
+Our product is a bus transport service, also known as a transit shuttle service, for travellers from the airport to nearby regional towns and vice versa. There is nothing like this available so we are helping people and helping ourselves at the same time. We intend to link with popular flights to begin with, having one vehicle to start, the ever reliable 2011 Toyota Coaster. 19 seats for travellers, the vehicle tows a strong fully enclosed trailer for luggage. Our vehicle is safety inspected yearly as per government regulations, the vehicle is well maintained, serviced and safe. We have the best local drivers. 
 
 Vision
-Our vision is to expand BATS capability in the future to address a shortfall in options for travellers needing to go between the new and expanding Busselton Margaret River Airport in the South West of Western Australia to a nearby regional location. Our service route includes designated pick up and drop off locations as specified below in the reference data and we will work together on future steps to add and or change options and routes as the business operations expand.
+Our vision is to expand BATS capability in the future to address a shortfall in options for travellers needing to go between the new and expanding Busselton Margaret River Airport in the South West of Western Australia to a nearby regional townsit locations. Our service route includes designated pick up and drop off locations as specified.
 
 Envisaged Result
 Alleviate traveller frustration by offering transport service to all major South West Australian regional towns near the “Busselton Airport”.
@@ -46,7 +45,7 @@ Employ pay and empower staff, their families and community with monetary spillov
 Improving and investing in future AI technological capability to ensure the business remains adaptive, competitive and progressive into the future with ability to invest in AI and the shared visionary quest for a sustained Permabiosphere. 
 
 
-Guidelines
+Ai coding Guidelines
 
 We will construct the BATS booking app step by step together.
  
@@ -127,23 +126,40 @@ Reference the screenshots of my unique designs. I will provide the multimedia in
 
 You must request for me to create and upload new multimedia files as you need; graphics, icons and images one step at a time). So, let's have some fun creating the workflow, Ui components, integrations, animations, graphics and more for this build (software/ human evolution, yes! Woohoo!). 
 
+Image Source Folder Location: /BATS/images/ai-reference/BATS-Typography-styles-v1.png
 
+Image Source Folder Location: /BATS/images/ai-reference/BATS-colour-palette-V1.png
 
+Here are some screen shots of our Ui to reference. 
 
-Image Source Folder Location: /BATS/images/web/ai-reference/BATS-Typography-styles-v1.png
+1. Journey Page / Landing Page
+/BATS/images/ai-reference/BATS-LandingPage-JourneyPage-UiDesign-v1
+/BATS/images/ai-reference/BATS-JourneyPage-landingpage-withinstructions.png
 
-Image Source Folder Location: /BATS/images/web/ai-reference/BATS-colour-palette-V1.png
-Here are some screen shots of our Ui to reference. 1. Journey Page / Landing Page
-/BATS/images/web/ai-reference/BATS-LandingPage-JourneyPage-UiDesign-v1
+2. Booking details page
+/BATS/images/ai-reference/BATS-bookingdetails-Ui-v1.png
+/BATS/images/ai-reference/BATS-bookingdetailspageUI-withinstructions.png
 
+3. Payment page
+/BATS/images/ai-reference/BATS-Payment-Page-Ui-v1.png
 
-/BATS/images/web/ai-reference/BATS-JourneyPage-landingpage-withinstructions.png
-/BATS/images/web/ai-reference/BATS-bookingdetails-Ui-v1.png
-/BATS/images/web/ai-reference/BATS-bookingdetailspageUI-withinstructions.png
-/BATS/images/web/ai-reference/BATS-Payment-Page-Ui-v1.png
-Three separate pages: Confirmation page, Contact us page and About Us page. See reference data for text in the About Us Page and for the Terms & Conditions Page and Privacy policy pages as shown below.
-We will try to add a real time tracking map to this page so travellers can check on the status of their bus service.
+4. Confirmation page
+/BATS/images/ai-reference/
 
-/BATS/images/web/ai-reference/BATS-Realtimeservicemapandlocations-Ui-v1.png
-Terms & Conditions Page
-Privacy Policy Page
+5. Contact us page
+/BATS/images/ai-reference/
+
+6. About Us page
+/BATS/images/ai-reference/
+
+7. Terms & Conditions Page
+/BATS/images/ai-reference/
+
+8.Privacy policy page
+/BATS/images/ai-reference/
+
+9. Map bus movement and stops page
+/BATS/images/ai-reference/BATS-Realtimeservicemapandlocations-Ui-v1.png
+
+10. Profile Settings Page
+/BATS/images/ai-reference/
