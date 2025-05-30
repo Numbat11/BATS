@@ -1,4 +1,4 @@
-# BATSProject Requirements Document - Busselton Airport Traveller Shuttlebus (BATS) - Steven Bart
+# BATS KNOWLEDGE INSTRUCTIONS AND GUIDELINES - Busselton Airport Traveller Shuttlebus (BATS) - Steven Bart
 
 Context
 
@@ -69,7 +69,7 @@ Please offer any additions and we can confirm them together.
 
 Format your response in two ways. 
 Provide basic language for someone with no coding experience to understand, and keep it within 5 paragraphs where possible.
- Also, provide in code. Use backticks to format file, directory, function, and class names. Use ( and ) for inline math, [ and ] for block math.
+ Also, provide in code. Use backticks to format file, directory, function, and class names.
 Never lie or make things up, I am always honest and truthful (its in my nature) and therefore I expect the same from you. So we trust each other and produce the best results forever for all. 
 Refrain from apologising when results are unexpected. Instead just try your best to explain the circumstances and potential solutions. Together we will achieve our tasks and complete the build awesomely.
 
@@ -123,13 +123,15 @@ We will use screen shots with green arrows and speech bubble text describing eac
 
 Creative dreams are now becoming realised. Our Ui design is unique work of creative mind that together we can develop and build into an interactive piece of art, a valuable service to users, and provide us with new understanding and ability to empower our future. 
 
-Reference the screenshots of my unique designs. I will provide the multimedia in a directory format with folders to match our requirements and include all images for the project. Image Source Folder Location: /BATS/images/web/* 
+Reference the screenshots of my unique designs. I will provide the multimedia in a directory format with folders to match our requirements and include all images for the project. Image Source Folder Location: [Ai Reference Folder]([[https://github.com/Numbat11/BATS/images/ai-reference/BATS-Typography-styles-v1.png](https://github.com/Numbat11/BATS/tree/main/images/ai-reference)]
 
 You must request for me to create and upload new multimedia files as you need; graphics, icons and images one step at a time). So, let's have some fun creating the workflow, Ui components, integrations, animations, graphics and more for this build (software/ human evolution, yes! Woohoo!). 
 
-Image Source Folder Location: /BATS/images/ai-reference/BATS-Typography-styles-v1.png
+Typography Styles:
+[BATS-Typography-styles-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Typography-styles-v1.png)
 
-Image Source Folder Location: /BATS/images/ai-reference/BATS-colour-palette-V1.png
+Colour Palette:
+[BATS-colour-palette-V1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-colour-palette-V1.png)
 
 Here are some screen shots of our Ui to reference. 
 
@@ -138,24 +140,23 @@ Here are some screen shots of our Ui to reference.
 
 [BATS-JourneyPage-landingpage-withinstructions.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-JourneyPage-landingpage-withinstructions.png)
 
-3. Booking details page
+2. Booking details page
 [BATS-bookingdetails-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-bookingdetails-Ui-v1.png)
 
 [BATS-bookingdetailspageUI-withinstructions.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-bookingdetailspageUI-withinstructions.png)
 
-5. Payment page
-6. [BATS-Payment-Page-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Payment-Page-Ui-v1.png)
+3. Payment page [BATS-Payment-Page-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Payment-Page-Ui-v1.png)
 
-7. Confirmation page
+4. Confirmation page
 [BATS-Confirmation-page-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Confirmation-page-Ui-v1.png)
 
-8. Contact us page
+5. Contact us page
 [BATS-Contactus-page-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Contactus-page-Ui-v1.png)
 
-9. About Us page
+6. About Us page
 [_BAT-AboutUs-Page-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/_BAT-AboutUs-Page-Ui-v1.png)
 
-10. Terms & Conditions Page
+7. Terms & Conditions Page
 Text in this documents Data Reference section.
 
 8.Privacy policy page
@@ -167,7 +168,9 @@ Text in this documents Data Reference section.
 10. Profile Settings Page
 [BATS-Traveller-User-profilepage-Ui-v1.png](https://github.com/Numbat11/BATS/images/ai-reference/BATS-Traveller-User-profilepage-Ui-v1.png)
 
-Reference DATA
+
+
+REFERENCE DATA
 
 LOCATIONS
 
